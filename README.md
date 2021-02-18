@@ -1,1 +1,1 @@
-# IMDB-Movie-Database-Analysis
+# IMDB Movie Database Analysis
